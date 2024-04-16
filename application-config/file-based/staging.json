@@ -1,0 +1,11 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 80
+    },
+    "database": {
+        "host": "localhost",
+        "username": "myUsername_staging",
+        "password": "abcdefgh_staging"
+    }
+}
